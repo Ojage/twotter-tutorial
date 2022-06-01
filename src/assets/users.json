@@ -1,0 +1,98 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "dromain0",
+            "firstName": "Delbert",
+            "lastName": "Romain",
+            "email": "dromain0@twitpic.com",
+            "isAdmin": false,
+            "twoots": [
+                {"id":1, "content": "Twooter is Amazing"} ,
+                {"id":2, "content": "What is Gamora?" }
+            ]
+            
+        },
+        {
+            "id": 2,
+            "username": "kwalas1",
+            "firstName": "Koren",
+            "lastName": "Walas",
+            "email": "kwalas1@statcounter.com",
+            "isAdmin": true,
+            "twoots":null
+        },
+        {
+            "id": 3,
+            "username": "pmacronald2",
+            "firstName": "Phylis",
+            "lastName": "MacRonald",
+            "email": "pmacronald2@goo.gl",
+            "isAdmin": true,
+            "twoots":null
+        },
+        {
+            "id": 4,
+            "username": "lregglar3",
+            "firstName": "Lyssa",
+            "lastName": "Regglar",
+            "email": "lregglar3@state.gov",
+            "isAdmin": true,
+            "twoots":null
+        },
+        {
+            "id": 5,
+            "username": "igriffin4",
+            "firstName": "Isahella",
+            "lastName": "Griffin",
+            "email": "igriffin4@ustream.tv",
+            "isAdmin": true,
+            "twoots":null
+        },
+        {
+            "id": 6,
+            "username": "tpeschka5",
+            "firstName": "Tabbi",
+            "lastName": "Peschka",
+            "email": "tpeschka5@1und1.de",
+            "isAdmin": false,
+            "twoots":null
+        },
+        {
+            "id": 7,
+            "username": "nspavins6",
+            "firstName": "Norry",
+            "lastName": "Spavins",
+            "email": "nspavins6@prweb.com",
+            "isAdmin": true,
+            "twoots":null
+        },
+        {
+            "id": 8,
+            "username": "swalcar7",
+            "firstName": "Selinda",
+            "lastName": "Walcar",
+            "email": "swalcar7@gmpg.org",
+            "isAdmin": false,
+            "twoots":null
+        },
+        {
+            "id": 9,
+            "username": "dadrain8",
+            "firstName": "Dianna",
+            "lastName": "Adrain",
+            "email": "dadrain8@over-blog.com",
+            "isAdmin": true,
+            "twoots":null
+        },
+        {
+            "id": 10,
+            "username": "wwarlton9",
+            "firstName": "Wilfrid",
+            "lastName": "Warlton",
+            "email": "wwarlton9@msn.com",
+            "isAdmin": false,
+            "twoots":null
+        }
+    ]
+}
